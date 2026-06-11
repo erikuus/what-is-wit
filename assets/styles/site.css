@@ -267,95 +267,29 @@ footer {
 }
 
 .home-main {
-  max-width: 980px;
-}
-
-.home-intro {
-  max-width: 42rem;
-  margin: 0 auto 3rem;
   text-align: center;
+  padding-top: 4rem;
 }
 
-.home-intro p {
-  font-size: 1.2rem;
-  color: var(--ink-muted);
-}
-
-.language-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+.home-links {
+  display: flex;
+  justify-content: center;
   gap: 1.5rem;
-  margin-bottom: 2rem;
-}
-
-.language-card,
-.resource-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 1.75rem;
-  box-shadow: 0 16px 40px rgba(26, 26, 26, 0.05);
-}
-
-.language-card h2,
-.resource-card h2 {
   font-family: 'Inter', sans-serif;
-  font-size: 0.82rem;
-  font-weight: 600;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  margin-bottom: 0.9rem;
-}
-
-.language-card p,
-.resource-card p {
-  color: var(--ink-muted);
-  margin-bottom: 1.2rem;
-}
-
-.language-card .primary-link {
-  display: inline-block;
-  text-decoration: none;
-  font-family: 'Inter', sans-serif;
-  font-size: 0.78rem;
-  font-weight: 600;
+  font-size: 0.84rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  padding: 0.8rem 1rem;
-  border-radius: 999px;
-  border: 1px solid var(--accent);
-  background: var(--accent);
-  color: var(--surface);
 }
 
-.language-card .primary-link:hover,
-.language-card .primary-link:focus-visible {
-  opacity: 0.92;
-}
-
-.resource-links {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.85rem 1.1rem;
-  font-family: 'Inter', sans-serif;
-  font-size: 0.8rem;
-}
-
-.resource-links a {
+.home-links a {
   text-decoration: none;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid transparent;
   padding-bottom: 0.15rem;
 }
 
-.resource-links a:hover,
-.resource-links a:focus-visible {
-  border-color: var(--ink-faint);
-}
-
-@media (max-width: 700px) {
-  .language-grid {
-    grid-template-columns: 1fr;
-  }
+.home-links a:hover,
+.home-links a:focus-visible {
+  border-bottom-color: var(--ink-faint);
 }
 
 @media (max-width: 600px) {
@@ -371,6 +305,12 @@ footer {
   }
   main {
     padding: 2rem 1rem 4rem;
+  }
+  .home-main {
+    padding-top: 3rem;
+  }
+  .home-links {
+    gap: 1rem;
   }
 }
 
