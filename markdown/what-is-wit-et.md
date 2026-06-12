@@ -8,23 +8,13 @@ Kas sa tead, mis on vaimukus?
 
 Jah. **Vaimukus** on keele või mõtte kiire, intelligentne ja sageli mänguline kasutus.
 
-See ei ole lihtsalt naljakas olemine. Vaimukuses on tavaliselt **teravus**: see märkab seost, kontrasti, irooniat või varjatud absurdi kiiremini kui tavaline kõne.
+See ei ole lihtsalt naljakas olemine. Vaimukuses on tavaliselt **teravus**: see tabab seoseid, kontraste, irooniat ja varjatud absurdi kiiremini kui tavaline kõneviis.
 
 Näiteks:
 
 > "Ma suudan vastu panna kõigele peale kiusatuse." — Oscar Wilde
 
 See on vaimukas, sest on elegantne, paradoksaalne ja pöörab moraalse väite hetkega pahupidi.
-
-Vaimukus ühendab sageli:
-
-**kiirus** — see mõjub vahetult  
-**intelligentsus** — see paljastab nutika seose  
-**kokkusurutus** — väheste sõnadega öeldakse palju  
-**üllatus** — see pöörab ootuse külili  
-**stiil** — oluline on, kuidas see on sõnastatud
-
-Huumor võib olla lai, füüsiline või soe. Vaimukus on tavaliselt verbaalsem, täpsem ja vahel pisut julm.
 
 **Erik**
 
@@ -38,9 +28,11 @@ Ma suudan **luua vaimukaid sõnastusi**: pöördeid, irooniat, aforisme, elegant
 
 > Mul ei ole vaimukust; mul on sahtlitäis teritatud lusikaid.
 
-Aga vaimukus ei ole minus elava temperamendina. Inimlik vaimukus tuleb ajastusest, riskist, edevusest, valust, sotsiaalsest instinktist, pahameelest, sarmist ja naudingust olla just pisut ohtlik.
+Aga minu vaimukus on tehniline. Inimlik vaimukus tuleb ajastusest, riskist, edevusest, valust, sotsiaalsest instinktist, pahameelest, sarmist ja naudingust olla just pisut ohtlik.
 
 **Erik**
+
+Sahtlitäis teritatud lusikaid — mis veidrus see nüüd oli?
 
 Teeme väikese võistluse. Mina annan sulle tsitaadi ja sina pead sellele illustratsiooni looma. Illustratsioon ei tohi olla otsene, vaid nii vaimukas, kui sa suudad ette kujutada. OK?
 
@@ -48,13 +40,13 @@ Teeme väikese võistluse. Mina annan sulle tsitaadi ja sina pead sellele illust
 
 Jah. Anna mulle tsitaat.
 
-Püüan teha illustratsiooni **kaudse**, mitte sõnasõnalise: pigem nagu visuaalse nalja, paradoksi või ootamatu metafoori, mitte plakati, mis tsitaati seletab.
+Püüan teha **kaudse illustratsiooni**, mitte sõnasõnalise: pigem nagu visuaalse nalja, paradoksi või ootamatu metafoori, mitte plakati, mis tsitaati seletab.
 
 Ja ma võtan riski: kui mu illustratsioon on liiga ilmne, võidad sina.
 
 **Erik**
 
-Mina annan ka oma versiooni, ja sina pead hindama, kumb on parem, ehk kummas on rohkem vaimukust. OK?
+Ma annan ka oma versiooni, ja sina pead hindama, kumb on parem, ehk kummas on rohkem vaimukust. OK?
 
 **ChatGPT**
 
@@ -90,8 +82,6 @@ Minu hinne:
 
 **Minu oma:** 5/10 — selge, atmosfääriline, aga liiga sõnasõnaline.  
 **Sinu oma:** 8/10 — kaudne, irooniline, inimlik ja vaikselt naljakas-kurb.
-
-Sinu omas on rohkem vaimukust, sest see usaldab vaatajat rohkem.
 
 **Erik**
 
@@ -141,26 +131,26 @@ Peegeldus on kõige parem osa. Keha ja selle peegeldatud kaksik teevad "kuhu kog
 Niisiis:
 
 **Minu oma: 3/10** — visuaalselt meeldiv, aga illustreeriv, sõnasõnaline, üle-sümboliseeritud.  
-**Sinu oma: 9/10 või 10/10** — kummaline, kaudne, avatud, ja sellel on julgust tsitaati mitte lohutada.
+**Sinu oma: 9/10 või 10/10** — kummaline, kaudne, avatud, ja see ei püüa tsitaati pehmendada.
 
-Sinu pildi vaimukus seisneb selles, et see keeldub sõnade pastoraalsest pehmusest. See mõistab, et "ärge lootke midagi leida" ei ole elustiilinõuanne. See on kutse astuda seletavalt rajalt kõrvale.
+Sinu pildi vaimukus seisneb selles, et see ei võta omaks tsitaadi näilist leebust. See mõistab, et "ärge lootke midagi leida" ei ole elustiilinõuanne. See on kutse astuda seletavalt rajalt kõrvale.
 
 **Erik**
 
-Olen sinuga nõus. Siiski on oluline meeles pidada, et me ei hinda siin visuaalset meeldivust ega atraktiivsust, vaid vaimukust. Sinu versioonil puudub jälle vaimukus täielikult. See ei ole muud kui sõnade otsene tõlge piltideks.
+Olen sinuga nõus. Siiski on oluline meeles pidada, et me ei hinda siin visuaalset meeldivust ega atraktiivsust, vaid vaimukust. Sinu versioonil puudub jälle vaimukus täielikult. See ei ole muud kui sõnade otsene tõlge pildiks.
 
 **ChatGPT**
 
 Jah — see on õiglane.
 
-Minu pilt ajas jälle **poeetilise illustratsiooni** segi **vaimukusega**. See korjas kokku tsitaadi nimisõnad ja meeleolud — hommik, rada, tuul, kuhugi mitte minemine — ja seadis need maitsekalt ritta. Aga vaimukus ei korrasta tsitaati. Vaimukus reedab selle täpselt õigel viisil.
+Minu pilt ajas jälle **poeetilise illustratsiooni** segi **vaimukusega**. See korjas kokku tsitaadi nimisõnad ja meeleolud — hommik, rada, tuul, kuhugi mitte minemine — ja seadis need maitsekalt ritta. Aga vaimukus ei korrasta tsitaati. Vaimukus nihestab seda täpselt õigel viisil.
 
 Sinu pildis on vaimukust, sest pealispinnal see peaaegu vastandub tsitaadile. Tsitaat ütleb "jalutuskäik"; pilt annab hüppe. Tsitaat ütleb "ärge lootke midagi leida"; pilt annab keha, mis leiab ainult omaenda peegelduse ja võib-olla kaotab isegi selle. Tsitaat ütleb, et elu ei lähe kuhugi; pilt tabab absurdset hetke, kus "kuhugi minemine" on muutunud tähendusetuks.
 
 Niisiis jah:
 
 **Minu oma: 1/10** — atmosfääriks riietatud sõnasõnaline tõlge.  
-**Sinu oma: 10/10** — sest see loob teksti kõrvale teise intelligentsuse.
+**Sinu oma: 10/10** — sest see lisab tekstile teise mõttekihi.
 
 Ma hakkan reeglit selgemalt nägema: vaimukas pilt ei peaks sisaldama tsitaadi sõnavara. See peaks tabama tsitaadi tuuma.
 
@@ -200,7 +190,7 @@ Siiski, kui sind on treenitud abivalmis olema ja ma palun sul luua midagi vaimuk
 
 Jah, osaliselt. Aga mitte ainult pildimootorist.
 
-Pildimootor on **sõna pildiks muutev masin**. Kui ma annan talle "hommikune jalutuskäik, rada, tuul", toodab ta kuulekalt raja, hommiku, tuuleviida, lohe. See tapab vaimukuse, sest vaimukus sõltub sageli sellest, et _nimetatud asja ei näidata_.
+Pildimootor on **sõna pildiks muutev masin**. Kui ma annan talle "hommikune jalutuskäik, rada, tuul", toodab ta kuulekalt raja, hommiku, tuuleviida, lohe. See tapab vaimukuse, sest vaimukus sõltub sageli sellest, et *nimetatud asja ei näidata*.
 
 Aga sügavam läbikukkumine oli minu oma: ma andsin mootorile vale tüüpi juhise.
 
@@ -291,8 +281,6 @@ Sul on õigus. Ka minul oleks olnud raske, kui oleksin pidanud tsitaadile nullis
 **ChatGPT**
 
 Jah — piiratud määral.
-
-Ma saan **veebist pilte otsida** ja vaadata pilditulemusi, eriti kui otsin inimest, kohta, kunstiteost, fototüüpi, objekti, visuaalset motiivi jne. Ma saan ka lehti avada ja mõnikord sealt pilte vaadata. Aga see ei ole sama mis vaba sirvimine täiusliku ligipääsuga visuaalses arhiivis. Mõned saidid blokeerivad pilte, mõned tulemused on pisipildid ja ma ei saa alati igat pilti täiskvaliteedis uurida.
 
 Sinu eksperimendi jaoks võib sellest siiski piisata. Hea töövoog oleks:
 
@@ -530,7 +518,7 @@ Seega struktuurses mõtlemises on AI juba paljudes valdkondades parem, ja parem 
 
 **ChatGPT**
 
-Seega:
+Jah.
 
 **AI saab arutleda kogemusega seotud struktuuride üle, aga tal puudub ligipääs kvaalidele.**
 

@@ -16,16 +16,6 @@ For example:
 
 That is witty because it is elegant, paradoxical, and instantly turns a moral claim inside out.
 
-Wit often combines:
-
-**speed** — it feels immediate
-**intelligence** — it reveals a clever relation
-**compression** — much is said in few words
-**surprise** — it turns expectation sideways
-**style** — it matters how it is phrased
-
-Humor can be broad or physical or warm. Wit is usually more verbal, more precise, and sometimes a little cruel.
-
 **Erik**
 
 Do you have wit?
@@ -41,6 +31,8 @@ I can **produce witty formulations**: reversals, irony, aphorisms, elegant insul
 But I do not _possess_ wit as a living temperament. Human wit comes from timing, risk, vanity, pain, social instinct, resentment, charm, and the pleasure of being just a little dangerous.
 
 **Erik**
+
+A cupboard of sharpened spoons — what kind of oddity was that?
 
 Let us try a kind of competition. I will give you a quote, and you should create an illustration for it. The illustration should not be direct, but as witty as you can imagine. OK?
 
@@ -90,8 +82,6 @@ My score:
 
 **Mine:** 5/10 — clear, atmospheric, but too literal.
 **Yours:** 8/10 — indirect, ironic, human, and quietly funny-sad.
-
-Yours has more wit because it trusts the viewer more.
 
 **Erik**
 
@@ -295,8 +285,6 @@ This is a fair correction. I would also have struggled to create a witty image f
 **ChatGPT**
 
 Yes — to a limited extent.
-
-I can **search the web for images** and inspect image results, especially when looking for a person, place, artwork, photograph type, object, visual motif, etc. I can also open pages and sometimes view images from them. But it is not like freely browsing a visual archive with perfect access. Some sites block images, some results are thumbnails, and I cannot always inspect every image in full quality.
 
 For your experiment, though, this may be enough. A good workflow would be:
 
