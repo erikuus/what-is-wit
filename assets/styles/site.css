@@ -317,23 +317,23 @@ footer {
 }
 
 @media (hover: none) and (pointer: coarse) {
-  html { font-size: clamp(19px, 4.8vw, 21px); }
+  html { font-size: 18px; }
   body {
-    line-height: 1.72;
+    line-height: 1.66;
   }
   main {
     max-width: none;
     width: 100%;
-    padding: 0 0.15rem 2rem;
+    padding: 0 0.1rem 1.75rem;
   }
   .turn {
-    padding: 1rem 0.7rem;
+    padding: 0.95rem 0.75rem;
   }
   .speaker {
-    font-size: 0.74rem;
+    font-size: 0.7rem;
   }
   .body {
-    font-size: 1.08rem;
+    font-size: 1rem;
   }
   .body blockquote {
     padding-left: 0.8rem;
@@ -351,20 +351,23 @@ footer {
 
 @media (hover: none) and (pointer: coarse) and (max-width: 600px) {
   header {
-    padding: 3.9rem 0.45rem 1rem;
+    padding: 3.6rem 0.4rem 0.35rem;
   }
-  header h1 { font-size: 1.95rem; }
+  header h1 { font-size: 1.72rem; }
   .subtitle {
-    max-width: 18rem;
+    max-width: 17rem;
+    font-size: 0.64rem;
+    letter-spacing: 0.06em;
     margin-left: auto;
     margin-right: auto;
   }
   .lang-switch {
-    top: 0.75rem;
-    right: 0.55rem;
+    top: 0.7rem;
+    right: 0.45rem;
+    font-size: 0.68rem;
   }
   .body {
-    font-size: 1.12rem;
+    font-size: 1rem;
   }
   .home-links {
     font-size: 0.9rem;
