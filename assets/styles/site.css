@@ -317,18 +317,46 @@ footer {
 }
 
 @media (hover: none) and (pointer: coarse) {
-  html { font-size: 20px; }
-  .turn { padding: 1.6rem; }
+  html { font-size: clamp(21px, 5vw, 24px); }
+  body {
+    line-height: 1.82;
+  }
   main {
-    padding: 2rem 1rem 4rem;
+    max-width: none;
+    width: 100%;
+    padding: 1.25rem 0.55rem 3rem;
+  }
+  .turn {
+    padding: 1.35rem 1.1rem;
+  }
+  .speaker {
+    font-size: 0.72rem;
+  }
+  .body blockquote {
+    padding-left: 1rem;
+  }
+  footer {
+    padding: 1.75rem 1rem 2.25rem;
+  }
+  .lang-switch {
+    right: 0.8rem;
+  }
+  header .subtitle {
+    letter-spacing: 0.1em;
   }
 }
 
 @media (hover: none) and (pointer: coarse) and (max-width: 600px) {
-  header h1 { font-size: 2.1rem; }
+  header {
+    padding: 4.5rem 0.9rem 2rem;
+  }
+  header h1 { font-size: 2.05rem; }
   .lang-switch {
-    top: 1rem;
-    right: 1rem;
+    top: 0.9rem;
+    right: 0.8rem;
+  }
+  .home-links {
+    font-size: 0.9rem;
   }
 }
 
