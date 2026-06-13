@@ -317,14 +317,14 @@ footer {
 }
 
 @media (hover: none) and (pointer: coarse) {
-  html { font-size: clamp(23px, 5.8vw, 26px); }
+  html { font-size: clamp(19px, 4.8vw, 21px); }
   body {
-    line-height: 1.9;
+    line-height: 1.72;
   }
   main {
     max-width: none;
     width: 100%;
-    padding: 0.55rem 0.15rem 2rem;
+    padding: 0 0.15rem 2rem;
   }
   .turn {
     padding: 1rem 0.7rem;
@@ -333,7 +333,7 @@ footer {
     font-size: 0.74rem;
   }
   .body {
-    font-size: 1.34rem;
+    font-size: 1.08rem;
   }
   .body blockquote {
     padding-left: 0.8rem;
@@ -351,7 +351,7 @@ footer {
 
 @media (hover: none) and (pointer: coarse) and (max-width: 600px) {
   header {
-    padding: 3.9rem 0.45rem 1.35rem;
+    padding: 3.9rem 0.45rem 1rem;
   }
   header h1 { font-size: 1.95rem; }
   .subtitle {
@@ -364,7 +364,7 @@ footer {
     right: 0.55rem;
   }
   .body {
-    font-size: 1.4rem;
+    font-size: 1.12rem;
   }
   .home-links {
     font-size: 0.9rem;
