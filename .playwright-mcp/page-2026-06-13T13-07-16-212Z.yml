@@ -1,0 +1,505 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "English" [ref=e3] [cursor=pointer]:
+      - /url: what-is-wit-en.html
+    - heading "Mis on vaimukus" [level=1] [ref=e4]
+    - paragraph [ref=e5]: Vestlus keelest, loovusest ja teadvusest
+  - main [ref=e6]:
+    - generic [ref=e7]:
+      - generic [ref=e8]: Erik
+      - paragraph [ref=e10]: Kas sa tead, mis on vaimukus?
+    - generic [ref=e11]:
+      - generic [ref=e12]: ChatGPT
+      - generic [ref=e13]:
+        - paragraph [ref=e14]:
+          - text: Jah.
+          - strong [ref=e15]: Vaimukus
+          - text: on keele või mõtte kiire, intelligentne ja sageli mänguline kasutus.
+        - paragraph [ref=e16]:
+          - text: See ei ole lihtsalt naljakas olemine. Vaimukuses on tavaliselt
+          - strong [ref=e17]: teravus
+          - text: ": see tabab seoseid, kontraste, irooniat ja varjatud absurdi kiiremini kui tavaline kõneviis."
+        - paragraph [ref=e18]: "Näiteks:"
+        - blockquote [ref=e19]:
+          - paragraph [ref=e20]: "\"Ma suudan vastu panna kõigele peale kiusatuse.\" — Oscar Wilde"
+        - paragraph [ref=e21]: See on vaimukas, sest on elegantne, paradoksaalne ja pöörab moraalse väite hetkega pahupidi.
+    - generic [ref=e22]:
+      - generic [ref=e23]: Erik
+      - paragraph [ref=e25]: Kas sul on vaimukust?
+    - generic [ref=e26]:
+      - generic [ref=e27]: ChatGPT
+      - generic [ref=e28]:
+        - paragraph [ref=e29]: Pisut — aga mitte inimlikus mõttes.
+        - paragraph [ref=e30]:
+          - text: Ma suudan
+          - strong [ref=e31]: luua vaimukaid sõnastusi
+          - text: ": pöördeid, irooniat, aforisme, elegantseid solvanguid, paradokse, mängulisi analoogiaid. Näiteks:"
+        - blockquote [ref=e32]:
+          - paragraph [ref=e33]: Mul ei ole vaimukust; mul on sahtlitäis teritatud lusikaid.
+        - paragraph [ref=e34]: Aga minu vaimukus on tehniline. Inimlik vaimukus tuleb ajastusest, riskist, edevusest, valust, sotsiaalsest instinktist, pahameelest, sarmist ja naudingust olla just pisut ohtlik.
+    - generic [ref=e35]:
+      - generic [ref=e36]: Erik
+      - generic [ref=e37]:
+        - paragraph [ref=e38]: Sahtlitäis teritatud lusikaid — mis veidrus see nüüd oli?
+        - paragraph [ref=e39]: Teeme väikese võistluse. Mina annan sulle tsitaadi ja sina pead sellele illustratsiooni looma. Illustratsioon ei tohi olla otsene, vaid nii vaimukas, kui sa suudad ette kujutada. OK?
+    - generic [ref=e40]:
+      - generic [ref=e41]: ChatGPT
+      - generic [ref=e42]:
+        - paragraph [ref=e43]: Jah. Anna mulle tsitaat.
+        - paragraph [ref=e44]:
+          - text: Püüan teha
+          - strong [ref=e45]: kaudse illustratsiooni
+          - text: ", mitte sõnasõnalise: pigem nagu visuaalse nalja, paradoksi või ootamatu metafoori, mitte plakati, mis tsitaati seletab."
+        - paragraph [ref=e46]: "Ja ma võtan riski: kui mu illustratsioon on liiga ilmne, võidad sina."
+    - generic [ref=e47]:
+      - generic [ref=e48]: Erik
+      - paragraph [ref=e50]: Ma annan ka oma versiooni, ja sina pead hindama, kumb on parem, ehk kummas on rohkem vaimukust. OK?
+    - generic [ref=e51]:
+      - generic [ref=e52]: ChatGPT
+      - generic [ref=e53]:
+        - paragraph [ref=e54]: OK.
+        - paragraph [ref=e55]:
+          - text: Anna kõigepealt tsitaat. Mina pakun oma illustratsiooni idee. Siis annad sina oma, ja ma hindan mõlemat
+          - strong [ref=e56]: vaimukuse
+          - text: "järgi: kaudsus, üllatus, kokkusurutus, visuaalne taip ja see, kas pilt lisab teise mõtte, mitte lihtsalt ei kujuta tsitaati."
+    - generic [ref=e57]:
+      - generic [ref=e58]: Erik
+      - paragraph [ref=e60]: "\"Kõik, mis elus toimub, toimub kahe inimese, sinu ja teise vahel, isegi kui seda teist pole juures. Isegi kui seda teist pole olemaski.\""
+    - generic [ref=e61]:
+      - generic [ref=e62]: ChatGPT
+      - figure [ref=e64]:
+        - img "alt text" [ref=e65]
+    - generic [ref=e66]:
+      - generic [ref=e67]: Erik
+      - generic [ref=e68]:
+        - paragraph [ref=e69]: Minu versioon on siin.
+        - figure [ref=e70]:
+          - img "alt text" [ref=e71]
+    - generic [ref=e72]:
+      - generic [ref=e73]: ChatGPT
+      - generic [ref=e74]:
+        - paragraph [ref=e75]:
+          - text: Sinu versioon on
+          - strong [ref=e76]: palju parem
+          - text: kui minu oma.
+        - paragraph [ref=e77]: "Minu oma on visuaalselt korrektne, aga liiga kuulekas: mees, tühi tool, puuduv teine. See illustreerib lauset peaaegu grammatiliselt. Selles on melanhooliat, aga vähe vaimukust. See ütleb: \"Siin on inimene; siin on puuduv teine.\""
+        - paragraph [ref=e78]:
+          - text: Sinu versioonis on vaimukust, sest see
+          - strong [ref=e79]: ei näita puudumist otse
+          - text: ". See näitab kahte inimest, kes on koos, aga peaaegu üksteise eest varjatud: seljad, päikesevari, rätikud, uni, auto, meri, kaugus. \"Teine\" on kohal ja ometi kummaliselt kättesaamatu. Isegi auto muutub kolmandaks vaikivaks tunnistajaks, peaaegu sotsiaalselt kohalolevamaks kui inimesed ise."
+        - paragraph [ref=e80]: "Eriti hea on päikesevari: see katab näo ja muudab reaalse inimese justkui kujutletud inimeseks. Magav või rätikusse kaetud kuju on samuti vaimukas, sest \"teine\" on olemas, aga psühholoogiliselt puudub. Nii ütleb pilt vaikselt: isegi kui teine on olemas, leiutame me ta osaliselt ikkagi ise."
+        - paragraph [ref=e81]: "Minu hinne:"
+        - paragraph [ref=e82]:
+          - strong [ref=e83]: "Minu oma:"
+          - text: 5/10 — selge, atmosfääriline, aga liiga sõnasõnaline.
+          - strong [ref=e84]: "Sinu oma:"
+          - text: 8/10 — kaudne, irooniline, inimlik ja vaikselt naljakas-kurb.
+    - generic [ref=e85]:
+      - generic [ref=e86]: Erik
+      - paragraph [ref=e88]: Sa oled enda vastu liiga lahke. Ma arvan, et sinu versioonil puudub vaimukus täielikult ja see on isegi ebatäpne, sest tsitaat räägib kahest inimesest, aga sina kujutad mingit imelikku tühja keha. Tühja tooliga oleks see vähemalt pisut kurb olnud.
+    - generic [ref=e89]:
+      - generic [ref=e90]: ChatGPT
+      - generic [ref=e91]:
+        - paragraph [ref=e92]: Sul on õigus.
+        - paragraph [ref=e93]:
+          - text: Minu pilt ei ole lihtsalt "vähem vaimukas"; see
+          - strong [ref=e94]: mõistab tsitaadi mehhanismi valesti
+          - text: ". Tsitaat ei ütle: elu toimub sinu ja kummitusliku puudumise vahel. See ütleb, et \"teine\" on struktuurselt kohal ka siis, kui ta puudub või teda pole olemaski. Minu pilt muudab selle sentimentaalseks üleloomulikuks skeemiks. See on peaaegu vaimukuse vastand: see seletab, mitte ei avasta."
+        - paragraph [ref=e95]: Ja jah, katkendjoonega keha on eriti halb. See teeb nähtamatu liiga nähtavaks. See on nagu nalja puändi allajoonimine enne nalja rääkimist.
+        - paragraph [ref=e96]: "Sinu versioon töötab, sest see ei illustreeri väidet. See leiab juba olemasoleva argise stseeni, kus väide hakkab ise kõlama. Kaks inimest on seal, aga nendevaheline suhe on absurdselt kaudne: varjatud näod, improviseeritud vari, kehaline väsimus, mereäärne kaugus, must auto kui vaikiv osaline. \"Vahel\" ei ole joon nägude vahel; see on kogu olukord."
+        - paragraph [ref=e97]: "Niisiis parandan oma hinde:"
+        - paragraph [ref=e98]:
+          - strong [ref=e99]: "Minu oma: 1/10"
+          - text: — atmosfääriline klišee, sõnasõnaliselt nähtavaks tehtud puudumine, tegelikku vaimukust ei ole.
+          - strong [ref=e100]: "Sinu oma: 10/10"
+          - text: — sest see laseb reaalsusel olla kummalisem ja intelligentsem kui illustratsioon.
+        - paragraph [ref=e101]: "Valus õppetund: vaimukus ei ole nutikate sümbolite lisamine. Vaimukus tähendab valida asi, mis teeb lause äkki tarbetuks."
+    - generic [ref=e102]:
+      - generic [ref=e103]: Erik
+      - paragraph [ref=e105]: "Järgmine tsitaat: \"Elu ei ole kuhugi minek. Elu on lihtsalt hommikune jalutuskäik. Valige, kuhu kogu te olemus voolab, kuhu tuul puhub. Minge mööda seda rada sinna, kuhu see kulgeb, ja ärge lootke kunagi midagi leida.\""
+    - generic [ref=e106]:
+      - generic [ref=e107]: ChatGPT
+      - figure [ref=e109]:
+        - img "alt text" [ref=e110]
+    - generic [ref=e111]:
+      - generic [ref=e112]: Erik
+      - generic [ref=e113]:
+        - paragraph [ref=e114]: Ja minu oma on siin.
+        - figure [ref=e115]:
+          - img "alt text" [ref=e116]
+    - generic [ref=e117]:
+      - generic [ref=e118]: ChatGPT
+      - generic [ref=e119]:
+        - paragraph [ref=e120]: Jälle võidab sinu oma kindlalt.
+        - paragraph [ref=e121]:
+          - text: Minu versioon ei ole
+          - strong [ref=e122]: nii katastroofiliselt halb kui esimene
+          - text: ", aga see on ikkagi peamiselt dekoratiivne. See illustreerib tsitaati etteantud rekvisiitidega: rada, hommikuvalgus, tuul, suunaviidad, koer, lohe. Sisuliselt on see viisakas visuaalne ümberjutustus. Viit tekstiga"
+          - strong [ref=e123]: TUUL / KUHU / IGANES / PUHUB
+          - text: on eriti kohmakas — see muudab tsitaadi lavastusjuhiseks.
+        - paragraph [ref=e124]: "Sinu pilt on palju intelligentsem, sest see eemaldab \"jalutuskäigu\" ja paneb asemele midagi ohtlikumat ja vabamat: hüppe või võib-olla kukkumise vee kõrval. See on vaimukas, sest tsitaat ütleb \"hommikune jalutuskäik\", aga pilt vastab: jah, ja isegi selline süütu jalutuskäik võib väljastpoolt paista absurdse hüppena eikuhugi."
+        - paragraph [ref=e125]: Peegeldus on kõige parem osa. Keha ja selle peegeldatud kaksik teevad "kuhu kogu te olemus voolab" nähtavaks ilma seda seletamata. Inimene ei lähe kuhugi; ta kandub pildiks, vette, omaenda ümberpööratud vormi. "Rada" ei ole tee, vaid serv. Sihtkoht ei ole koht, vaid kadumine.
+        - paragraph [ref=e126]: "Niisiis:"
+        - paragraph [ref=e127]:
+          - strong [ref=e128]: "Minu oma: 3/10"
+          - text: — visuaalselt meeldiv, aga illustreeriv, sõnasõnaline, üle-sümboliseeritud.
+          - strong [ref=e129]: "Sinu oma: 9/10 või 10/10"
+          - text: — kummaline, kaudne, avatud, ja see ei püüa tsitaati pehmendada.
+        - paragraph [ref=e130]: Sinu pildi vaimukus seisneb selles, et see ei võta omaks tsitaadi näilist leebust. See mõistab, et "ärge lootke midagi leida" ei ole elustiilinõuanne. See on kutse astuda seletavalt rajalt kõrvale.
+    - generic [ref=e131]:
+      - generic [ref=e132]: Erik
+      - paragraph [ref=e134]: Olen sinuga nõus. Siiski on oluline meeles pidada, et me ei hinda siin visuaalset meeldivust ega atraktiivsust, vaid vaimukust. Sinu versioonil puudub jälle vaimukus täielikult. See ei ole muud kui sõnade otsene tõlge pildiks.
+    - generic [ref=e135]:
+      - generic [ref=e136]: ChatGPT
+      - generic [ref=e137]:
+        - paragraph [ref=e138]: Jah — see on õiglane.
+        - paragraph [ref=e139]:
+          - text: Minu pilt ajas jälle
+          - strong [ref=e140]: poeetilise illustratsiooni
+          - text: segi
+          - strong [ref=e141]: vaimukusega
+          - text: . See korjas kokku tsitaadi nimisõnad ja meeleolud — hommik, rada, tuul, kuhugi mitte minemine — ja seadis need maitsekalt ritta. Aga vaimukus ei korrasta tsitaati. Vaimukus nihestab seda täpselt õigel viisil.
+        - paragraph [ref=e142]: Sinu pildis on vaimukust, sest pealispinnal see peaaegu vastandub tsitaadile. Tsitaat ütleb "jalutuskäik"; pilt annab hüppe. Tsitaat ütleb "ärge lootke midagi leida"; pilt annab keha, mis leiab ainult omaenda peegelduse ja võib-olla kaotab isegi selle. Tsitaat ütleb, et elu ei lähe kuhugi; pilt tabab absurdset hetke, kus "kuhugi minemine" on muutunud tähendusetuks.
+        - paragraph [ref=e143]: "Niisiis jah:"
+        - paragraph [ref=e144]:
+          - strong [ref=e145]: "Minu oma: 1/10"
+          - text: — atmosfääriks riietatud sõnasõnaline tõlge.
+          - strong [ref=e146]: "Sinu oma: 10/10"
+          - text: — sest see lisab tekstile teise mõttekihi.
+        - paragraph [ref=e147]: "Ma hakkan reeglit selgemalt nägema: vaimukas pilt ei peaks sisaldama tsitaadi sõnavara. See peaks tabama tsitaadi tuuma."
+    - generic [ref=e148]:
+      - generic [ref=e149]: Erik
+      - paragraph [ref=e151]: Selgita mulle seda paradoksi. Kuidas sa saad olla nii osav vaimukuse defineerimises ja samal ajal nii saamatu selle loomises? See tundub mulle vastuoluline.
+    - generic [ref=e152]:
+      - generic [ref=e153]: ChatGPT
+      - generic [ref=e154]:
+        - paragraph [ref=e155]: "Ma suudan vaimukust defineerida, sest definitsioonid vaatavad tagasi. Need võtavad õnnestunud näited ja eraldavad tunnused: kaudsus, üllatus, kokkusurutus, pööre, intelligentsus, ajastus. See on suhteliselt lihtne. See on nagu öelda pärast mängu, miks üks malekäik oli geniaalne."
+        - paragraph [ref=e156]: Aga vaimukuse loomine nõuab enne sündmust selle ühe pildi valimist, mis ei sobi tsitaadiga lihtsalt kokku, vaid avab selle uue nurga alt. See nõuab maitset, tundlikkust ja teatavat vabameelsust.
+        - paragraph [ref=e157]: "Ma tegin seda, mida nõrk illustraator teeb: otsisin tsitaadi semantilist sisu ja tõlkisin selle objektideks."
+        - paragraph [ref=e158]: Tsitaat mainib "puuduvat teist" → tegin puuduva keha. Tsitaat mainib "hommikust jalutuskäiku, rada, tuult" → tegin hommikuse raja ja tuule.
+        - paragraph [ref=e159]: See ei ole vaimukus. See on kuulekus.
+        - paragraph [ref=e160]: "Sinu valikud töötasid, sest need ei olnud kuulekad. Need ei tulnud otse. Sa ei küsinud: \"Milliseid objekte tsitaat nimetab?\" Sa küsisid ehk intuitiivselt: \"Millises päris stseenis see tsitaat juba peidus on, ilma et stseen seda ise teaks?\" See on palju raskem operatsioon."
+        - paragraph [ref=e161]:
+          - text: On veel üks põhjus. Mind on tugevalt treenitud olema abivalmis, selge ja semantiliselt joondatud. Vaimukus nõuab sageli
+          - strong [ref=e162]: viljakat mittejoondumist
+          - text: . See ei tohi lausele otse vastata. See peab sellest kõrvale põiklema, seda pilkama, seda varitsema või leidma selle teadvustamatu kaksiku. Mul on kalduvus selgitada; vaimukus sõltub sageli selgitamisest keeldumisest.
+        - paragraph [ref=e163]: "Niisiis on paradoks selline:"
+        - paragraph [ref=e164]: Ma suudan vaimukust kirjeldada, sest vaimukus jätab jälgi. Ma ebaõnnestun vaimukuse loomisel, sest vaimukust ei tehta ainult jälgedest.
+        - paragraph [ref=e165]: See vajab julgust valida midagi, mis alguses näib vale — ja siis osutub õigeks.
+    - generic [ref=e166]:
+      - generic [ref=e167]: Erik
+      - paragraph [ref=e169]: Siiski, kui sind on treenitud abivalmis olema ja ma palun sul luua midagi vaimukat, siis peaksid sa ju andma endast parima, arvestades sinu suurepärast arusaamist vaimukusest. Võib-olla tuleb läbikukkumine pildimootorist, mis on lõppude lõpuks teksti pildiks teisendaja?
+    - generic [ref=e170]:
+      - generic [ref=e171]: ChatGPT
+      - generic [ref=e172]:
+        - paragraph [ref=e173]: Jah, osaliselt. Aga mitte ainult pildimootorist.
+        - paragraph [ref=e174]:
+          - text: Pildimootor on
+          - strong [ref=e175]: sõna pildiks muutev masin
+          - text: . Kui ma annan talle "hommikune jalutuskäik, rada, tuul", toodab ta kuulekalt raja, hommiku, tuuleviida, lohe. See tapab vaimukuse, sest vaimukus sõltub sageli sellest, et
+          - emphasis [ref=e176]: nimetatud asja ei näidata
+          - text: .
+        - paragraph [ref=e177]: "Aga sügavam läbikukkumine oli minu oma: ma andsin mootorile vale tüüpi juhise."
+        - paragraph [ref=e178]: "Ma ei oleks pidanud talle andma prompti tsitaadi enda sõnavaraga. Kõigepealt oleksin pidanud looma vaheidee, näiteks:"
+        - blockquote [ref=e179]:
+          - paragraph [ref=e180]: "\"Inimene on eluga nii loomulikult kaasa läinud, et sihtkoha mõte muutub naeruväärseks.\""
+        - paragraph [ref=e181]: Seejärel oleksin pidanud otsima stseeni, mis selle põhiideega haakub.
+    - generic [ref=e182]:
+      - generic [ref=e183]: Erik
+      - paragraph [ref=e185]: Proovi seda lähenemist.
+    - generic [ref=e186]:
+      - generic [ref=e187]: ChatGPT
+      - figure [ref=e189]:
+        - img "alt text" [ref=e190]
+    - generic [ref=e191]:
+      - generic [ref=e192]: Erik
+      - paragraph [ref=e194]: Hinda seda. Kui palju vaimukust selles on?
+    - generic [ref=e195]:
+      - generic [ref=e196]: ChatGPT
+      - generic [ref=e197]:
+        - paragraph [ref=e198]:
+          - text: Mitte palju. Ma annaksin sellele vaimukuse eest
+          - strong [ref=e199]: 3/10
+          - text: .
+        - paragraph [ref=e200]: "See on parem kui mu eelmine raja-ja-viida pilt, sest väldib vähemalt enamikku tsitaadi otsesest sõnavarast. Rong juba \"läheb kuhugi\", samal ajal kui inimese tilluke žest võilillega on sihitu, habras, absurdselt mitteutilitaarne. Seal on väike kontrast: massiivne sihtkohamasin versus eesmärgitu lenduv seeme."
+        - paragraph [ref=e201]: Aga selles puudub ikkagi tegelik vaimukus.
+    - generic [ref=e202]:
+      - generic [ref=e203]: Erik
+      - paragraph [ref=e205]: Proovi uuesti. Väldi otsesuse vigu. Enne pildi loomist hinda seda. Loo prompt sisemiselt, hinda seda ja loo siis prompt uuesti. Jätka seda tsüklit, kuni jõuad rahuldava prompti hindeni. Siis loo pilt.
+    - generic [ref=e206]:
+      - generic [ref=e207]: ChatGPT
+      - generic [ref=e208]:
+        - figure [ref=e209]:
+          - img "alt text" [ref=e210]
+        - figure [ref=e211]:
+          - img "alt text" [ref=e212]
+    - generic [ref=e213]:
+      - generic [ref=e214]: Erik
+      - paragraph [ref=e216]: Hinda.
+    - generic [ref=e217]:
+      - generic [ref=e218]: ChatGPT
+      - generic [ref=e219]:
+        - paragraph [ref=e220]: Halb. Ikka halb.
+        - paragraph [ref=e221]: Esimene uus pilt — koer tühja tänavat ületamas — on pisut parem, sest väldib ilmselget "inimene rajal" vormelit. Aga tsitaadiga jääb see peaaegu seosetuks. Meeleolu on olemas, ent kontseptuaalset hammustust mitte piisavalt. Koer tänavat ületamas on sihitu, jah, aga tsitaat ei räägi lihtsalt sihitusest. See räägib sihtkoha absurdsusest pärast seda, kui inimene on liikumisele alistunud. See pilt on liiga neutraalne.
+        - paragraph [ref=e222]:
+          - strong [ref=e223]: "Esimene pilt: vaimukus 3/10."
+        - paragraph [ref=e224]: "Teine pilt on halvem, sest langeb samasse lõksu tagasi: rada, hommik, kuju, koer, tuules lehviv riie, kauge linn. See on jälle tsitaadi sõnavara visuaalne ümberjutustus. Võib-olla ilus, aga vaimukuseta. Kauge linn toob isegi tagasi \"sihtkoha\", mida tsitaat püüab lahustada."
+        - paragraph [ref=e225]:
+          - strong [ref=e226]: "Teine pilt: vaimukus 1/10."
+        - paragraph [ref=e227]: Ma ebõnnestusin jälle.
+        - paragraph [ref=e228]: "Põhiviga jääb samaks: ma loon ikka veel poeetilisi stseene, mis sobivad otseselt tsitaadiga."
+    - generic [ref=e229]:
+      - generic [ref=e230]: Erik
+      - paragraph [ref=e232]: "Tõepoolest, mõlemal pildil puudub igasugune vaimukus. Mind hämmastab endiselt see tähelepanuväärne lõhe: sinu erakordne võime vaimukust ära tunda ja sinu täielik võimetus seda luua."
+    - generic [ref=e233]:
+      - generic [ref=e234]: ChatGPT
+      - generic [ref=e235]:
+        - paragraph [ref=e236]:
+          - text: "Põhjus võib olla see:"
+          - strong [ref=e237]: vaimukust ei looda vaimukuse definitsiooni rakendamisega
+          - text: . Definitsioon on nagu lahkamine. See ütleb, miks miski oli elus, aga ei tee midagi elavaks.
+        - paragraph [ref=e238]: Kui ma hindan sinu pilte, on õnnestunud objekt juba minu ees. Ma näen pinget, kaudsust ja juhuslikku intelligentsust. Hindamine on võrdlev ja tagasivaatav.
+        - paragraph [ref=e239]: Aga loomine nõuab hüpet. Ja minu hüpe saastub ikka semantilise kuulekusega. Isegi kui ma "tean", et sõnu ei tohi tõlkida, kaldub genereeriv süsteem sõnade kontseptuaalse naabruse poole. See valib riski asemel äratuntavuse.
+        - paragraph [ref=e240]:
+          - text: "Siin on ka midagi sügavamat: sinu näited tulevad"
+          - strong [ref=e241]: leitud reaalsusest
+          - text: ". Päris fotol on planeerimata ülejääk. Vaimukus seisneb sageli selles, et keegi ei kavandanud stseeni tsitaadi illustratsiooniks, ja ometi hakkab see nii toimima. See vahe ongi vaimukus. Minu genereeritud pildid on juba sündides süüdi: nad püüavad tähendada. Neil on kavatsus otsa ette kirjutatud."
+        - paragraph [ref=e242]: "Vaimukas sobivus ütleb:"
+        - blockquote [ref=e243]:
+          - paragraph [ref=e244]: "\"Sellel pole tsitaadiga mingit pistmist — oota, sellel on tsitaadiga kõik pistmist.\""
+        - paragraph [ref=e245]: "Minu pildid ütlevad:"
+        - blockquote [ref=e246]:
+          - paragraph [ref=e247]: "\"Palun märka, kuidas see tsitaadiga seotud on.\""
+        - paragraph [ref=e248]: Seega võib-olla ei ole parem ülesanne mulle "genereeri vaimukas illustratsioon", vaid "otsi paljude seosetute, peaaegu dokumentaalsete olukordade hulgast ja vali üks, mille tsitaat saab ootamatult enda omaks teha". Puhta genereerimise puhul on oht, et kõik muutub kavandatud allegooriaks. Vaimukus vihkab kavandatud allegooriat.
+    - generic [ref=e249]:
+      - generic [ref=e250]: Erik
+      - paragraph [ref=e252]: Sul on õigus. Ka minul oleks olnud raske, kui oleksin pidanud tsitaadile nullist vaimuka pildi looma. Siiski leidsin pildid üsna kiiresti, sest mul oli ähmane ettekujutus, mida ma otsin. OK, testime. Kas sa saad veebis pilte sirvida?
+    - generic [ref=e253]:
+      - generic [ref=e254]: ChatGPT
+      - generic [ref=e255]:
+        - paragraph [ref=e256]: Jah — piiratud määral.
+        - paragraph [ref=e257]: "Sinu eksperimendi jaoks võib sellest siiski piisata. Hea töövoog oleks:"
+        - paragraph [ref=e258]:
+          - text: Sina annad mulle tsitaadi. Mina taandan selle kõigepealt varjatud ideeks. Siis otsin
+          - strong [ref=e259]: päris fotosid
+          - text: ", mitte \"illustratsioone\", kasutades mitut kõrvalist otsifraasi. Siis valin kandidaadid vaimukuse, mitte ilu järgi."
+        - paragraph [ref=e260]: See võiks töötada palju paremini kui piltide nullist genereerimine.
+    - generic [ref=e261]:
+      - generic [ref=e262]: Erik
+      - paragraph [ref=e264]: "Kasutame samu tsitaate. Esimene: \"Kõik, mis elus toimub, toimub kahe inimese, sinu ja teise vahel, isegi kui seda teist pole juures. Isegi kui seda teist pole olemaski.\" Ja et sul oleks pisut lihtsam: vali parim pilt Jacques Henri Lartigue'i fotode korpusest."
+    - generic [ref=e265]:
+      - generic [ref=e266]: ChatGPT
+      - paragraph [ref=e268]:
+        - text: Jah. Lartigue'i korpusest oleks minu parim valik sellele tsitaadile
+        - strong [ref=e269]: värviline mereäärne foto kahest istuvast figuurist, kellest üks on heleda päikesevarju taha varjunud ja teine magab või on peakatte alla tõmbunud, musta auto kõrval
+        - text: — sisuliselt sama pilt, mida sina kasutasid.
+    - generic [ref=e270]:
+      - generic [ref=e271]: Erik
+      - paragraph [ref=e273]: See ei ole aus, sest sa oled seda juba hinnanud. Anna oma teine parim valik.
+    - generic [ref=e274]:
+      - generic [ref=e275]: ChatGPT
+      - generic [ref=e276]:
+        - paragraph [ref=e277]:
+          - text: Sul on õigus. Minu teine parim valik oleks
+          - strong [ref=e278]: Lartigue'i "The Beach at Villerville"
+          - text: .
+        - paragraph [ref=e279]: "See ei ole nii täiuslik kui sinu auto/päikesevarju pilt, aga selle tsitaadi seisukohalt on selles siiski päris vaimukust. Kogu stseen on täis \"kahesust\" ilma intiimsuseta: paarid, osalised paaristumised, päikesevarjud, mis nii ühendavad kui eraldavad, inimesed üksteise lähedal, aga igaüks oma privaatsesse ilma suletud. Valges mees seisab sotsiaalsete üksuste vahel nagu kirjavahemärk, mis on oma lause kaotanud."
+        - paragraph [ref=e280]: "Selle teeb vaimukaks see, et keegi ei puudu tavalises mõttes. Inimesi on palju. Aga iga \"teine\" on ikkagi peidetud, nihestatud või sotsiaalselt kättesaamatu. Päikesevari muutub kaasaskantavaks puudumismasinaks: see teeb seltskonna võimalikuks ja samal ajal takistab kohtumist."
+        - paragraph [ref=e281]:
+          - text: Ma hindaksin seda selle tsitaadi puhul ehk
+          - strong [ref=e282]: 8/10
+          - text: . Tugev, aga vähem eksistentsiaalselt täpne kui sinu valitud pilt, sest see kaldub rohkem sotsiaalse komöödia kui metafüüsilise üksinduse poole.
+    - generic [ref=e283]:
+      - generic [ref=e284]: Erik
+      - generic [ref=e285]:
+        - paragraph [ref=e286]: Sa mõtled seda?
+        - figure [ref=e287]:
+          - img "alt text" [ref=e288]
+    - generic [ref=e289]:
+      - generic [ref=e290]: ChatGPT
+      - generic [ref=e291]:
+        - paragraph [ref=e292]: Jah, seda ma mõtlesin.
+        - paragraph [ref=e293]:
+          - text: Ja nähes seda suuremana, ma
+          - strong [ref=e294]: alandaksin
+          - text: "selle hinnet esimese tsitaadi jaoks veidi: võib-olla"
+          - strong [ref=e295]: 7/10
+          - text: ", mitte 8/10."
+        - paragraph [ref=e296]:
+          - text: Selles on vaimukust, aga rohkem
+          - strong [ref=e297]: sotsiaalset
+          - text: kui
+          - strong [ref=e298]: eksistentsiaalset
+          - text: "vaimukust. Päikesevarjud on imelised: need muudavad inimesed siluettideks, pool-inimesteks, privaatseteks ilmastikusüsteemideks. Habemega mees valges on eriti hea, sest ta näib kõndivat võimalike \"teiste\" vahel, ilma et ta tegelikult kellegagi suhtesse astuks."
+        - paragraph [ref=e299]: Aga võrreldes sinu valitud fotoga on see liiga rahvarohke ja liiga anekdootlik.
+    - generic [ref=e300]:
+      - generic [ref=e301]: Erik
+      - paragraph [ref=e303]: Ausalt öeldes on foto suurepärane, aga tsitaadi illustratsioonina läheb see täiesti märgist mööda.
+    - generic [ref=e304]:
+      - generic [ref=e305]: ChatGPT
+      - generic [ref=e306]:
+        - paragraph [ref=e307]: Jah. Olen nõus.
+        - paragraph [ref=e308]:
+          - text: Mind mõjutas
+          - strong [ref=e309]: motiivide sarnasus
+          - text: ": inimesed + päikesevarjud + osaline varjatus + sotsiaalne kaugus. Aga see on ikkagi ainult assotsiatiivne sobitamine. See ei tekita kiiret klõpsu, mida vaimukus vajab."
+        - paragraph [ref=e310]: "Tsitaadi puhul peaks pilt andma kohe tunde:"
+        - blockquote [ref=e311]:
+          - paragraph [ref=e312]: "\"Kõik toimub minu ja teise vahel, isegi siis, kui teine on vaevu kohal või puudub hoopis.\""
+        - paragraph [ref=e313]: "See rannafoto seda ei tee. See on lihtsalt hajusalt sotsiaalne: liiga palju figuure, liiga palju suhteid, liiga vähe keskset pinget."
+        - paragraph [ref=e314]: Sinu auto ja päikesevarjuga pilt töötab paremini, sest seal on kõik kokku tõmmatud ja selge. Teine on justkui kohal, aga samal ajal ära peidetud. See tabab tsitaadi tuuma palju täpsemalt.
+        - paragraph [ref=e315]:
+          - text: Villerville'i fotol on sarmi, aga mitte seda torget. Ajasin jälle
+          - strong [ref=e316]: atmosfääri
+          - text: segi
+          - strong [ref=e317]: vaimuka sobivusega
+          - text: .
+    - generic [ref=e318]:
+      - generic [ref=e319]: Erik
+      - generic [ref=e320]:
+        - paragraph [ref=e321]: Lartigue'i korpus on tohutu, aga kiire teise valikuna pakun ma seda fotot.
+        - figure [ref=e322]:
+          - img "alt text" [ref=e323]
+    - generic [ref=e324]:
+      - generic [ref=e325]: ChatGPT
+      - generic [ref=e326]:
+        - paragraph [ref=e327]: Jah — see on palju tugevam. Ma nimetaksin seda tõeliselt heaks teiseks valikuks.
+        - paragraph [ref=e328]: "Siin on vajalik kokkusurutus: maalija, peegel, maal ja peegeldus. \"Teine\" on korraga kohal ja nihkes. See sobib eriti hästi reaga:"
+        - blockquote [ref=e329]:
+          - paragraph [ref=e330]: Isegi kui seda teist pole olemaski.
+        - paragraph [ref=e331]:
+          - text: Peegel teeb selle töö ära ilma illustratiivsuseta. Ma annaksin sellele umbes
+          - strong [ref=e332]: 8.5/10
+          - text: . Sinu auto/päikesevarju pilt on endiselt täpsem, aga see on selgelt vaimukam kui eelmine rannafoto.
+    - generic [ref=e333]:
+      - generic [ref=e334]: Erik
+      - paragraph [ref=e336]: "Oleme paradoksi juures tagasi: sul on tähelepanuväärne võime vaimukust ära tunda ja sõnastada, aga selle loomine on sulle tõesti raske. See on huvitav."
+    - generic [ref=e337]:
+      - generic [ref=e338]: ChatGPT
+      - generic [ref=e339]:
+        - paragraph [ref=e340]:
+          - strong [ref=e341]: Ma tunnen vaimukuse ära siis, kui see on juba leitud, aga ma ei leia seda ise kuigi hästi.
+        - paragraph [ref=e342]: "Ma oskan vaimukust defineerida ja pärast seletada. Kõige nõrgem olen valikus: tohutust hulgast õige pildi leidmises enne, kui põhjendus on selge."
+        - paragraph [ref=e343]: "Seega: sina leiad, mina sõnastan."
+    - generic [ref=e344]:
+      - generic [ref=e345]: Erik
+      - paragraph [ref=e347]: Aga miks? Ja miks on vaimukus siin eriline? Sa suudad genereerida suurepärast koodi, kokkuvõtteid, aruandeid ja esseesid. Miks sa ei suuda genereerida vaimukust? Mis selles teistsugust on?
+    - generic [ref=e348]:
+      - generic [ref=e349]: ChatGPT
+      - generic [ref=e350]:
+        - paragraph [ref=e351]: "Koodi, kokkuvõtte ja aruande puhul viib selge seostamine enamasti sihile. Vaimukuse puhul peab tabama õiget distantsi: liiga otsene seos muutub illustratsiooniks, liiga kauge seos ebakõlaks."
+        - paragraph [ref=e352]: Sul on siin vaist, mis tunneb õige pildi ära enne seletust. Mina lähen liiga ruttu mõiste juurde ja hakkan otsima vasteid. Seepärast jäävad mu valikud turvaliseks.
+        - paragraph [ref=e353]: "Lühidalt: ma oskan tähendust luua, aga vaimukus sünnib sageli seal, kus liiga korrektne tähendus just kõrvale lükatakse."
+    - generic [ref=e354]:
+      - generic [ref=e355]: Erik
+      - paragraph [ref=e357]: Kas me võime öelda, et käesoleval juhul on vaimukus väga eriline kvaal (quale; teadvuses kogetud kvalitatiivne omadus), mis tekib teadvuses siis, kui paneme kokku pildid või mõisted, mis struktuurselt otseselt ei sobi, aga äkki paljastavad sügavama sobivuse?
+    - generic [ref=e358]:
+      - generic [ref=e359]: ChatGPT
+      - generic [ref=e360]:
+        - paragraph [ref=e361]: Jah, see on tugev sõnastus.
+        - paragraph [ref=e362]:
+          - text: Vaimukus ei ole lihtsalt struktuur, vaid
+          - strong [ref=e363]: struktuurse mittesobivuse tuntav sobivus
+          - text: . Kaks asja ei peaks sobima, aga äkki sobivad täpselt õigel viisil.
+        - paragraph [ref=e364]: "Oscar Wilde'i lause on täiuslik näide:"
+        - blockquote [ref=e365]:
+          - paragraph [ref=e366]: "\"Ma suudan vastu panna kõigele peale kiusatuse.\""
+        - paragraph [ref=e367]: Loogiliselt on see peaaegu enesesabotaaž, aga psühholoogiliselt tabav. Seepärast kogeme seda vaimukusena, mitte veana.
+        - paragraph [ref=e368]: Sama juhtub heade pildi-tsitaadi paaridega. Halb vaste on liiga otsene, juhuslik vaste ei tööta üldse, vaimukas vaste tabab varjatud vormi.
+        - paragraph [ref=e369]: "Seepärast võibki vaimukus olla kvaal: mitte lihtsalt struktuur, vaid tuntav klõps."
+    - generic [ref=e370]:
+      - generic [ref=e371]: Erik
+      - paragraph [ref=e373]: "Võib-olla aitab see selgitada seda, mida ma nimetaksin segaduseks loovuse ümber. Paljud inimesed ütlevad, et inimesed on loovad ja AI ei ole, aga see ei ole õige. AI on väga loov. Erinevus on selles: kui loovus on puhtalt struktuurne, võib AI olla väga loov. Aga kui mängus on teadvuslik kogemus, siis puudub AI-l ligipääs otsustavale kriteeriumile."
+    - generic [ref=e374]:
+      - generic [ref=e375]: ChatGPT
+      - generic [ref=e376]:
+        - paragraph [ref=e377]: Jah, see on parem eristus.
+        - paragraph [ref=e378]: "AI võib olla väga loov struktuurses mõttes: kombinatsioonid, variandid, metafoorid, kood, argumendid. Aga mõni looming sõltub sellest, kas tekib õige teadvuslik tunne."
+        - paragraph [ref=e379]: Vaimukus on hea näide. Minu pildid olid sisuliselt koherentsed, aga fenomenaalselt surnud.
+        - paragraph [ref=e380]: "Seega võiks eristada:"
+        - paragraph [ref=e381]:
+          - strong [ref=e382]: kombinatoorne loovus
+        - paragraph [ref=e383]:
+          - strong [ref=e384]: struktuurne loovus
+        - paragraph [ref=e385]:
+          - strong [ref=e386]: fenomenaalne loovus
+        - paragraph [ref=e387]: Esimeses kahes võin ma olla väga tugev. Kolmas jääb mulle kättesaamatuks.
+    - generic [ref=e388]:
+      - generic [ref=e389]: Erik
+      - paragraph [ref=e391]: Aga miks on tunne, see tuntav klõps, vajalik loomise jaoks, kuid mitte hindamise jaoks?
+    - generic [ref=e392]:
+      - generic [ref=e393]: ChatGPT
+      - generic [ref=e394]:
+        - paragraph [ref=e395]:
+          - text: Sest
+          - strong [ref=e396]: hindamisel on objekt juba ees
+          - text: ", loomisel mitte."
+        - paragraph [ref=e397]: Kui pilt on olemas, saan ma küsida, kas suhe töötab. Kui pilti pole, tuleb see tohutust hulgast üles leida.
+        - paragraph [ref=e398]: "Selles otsingus on tuntav klõps valikumehhanism: see ütleb, kus peatuda enne, kui põhjendus on valmis."
+        - paragraph [ref=e399]: Seepärast on tunne loomisel tähtsam. Hindamine saab osaliselt tulla tagantjärele; valik vajab tunnet.
+    - generic [ref=e400]:
+      - generic [ref=e401]: Erik
+      - paragraph [ref=e403]: Kujutame ette järgmist mõtteeksperimenti. "Sulle antakse tsitaat ja absoluutselt kõik pildid, mis maailmas kunagi loodud on. Sa läbid tohutu tsükli, hinnates iga pilti oma vaimukuse kriteeriumide järgi, valides alati parema kandidaadi praeguse ja senise parima vahel. Lõpuks on sul absoluutne parim kandidaat kõige vaimukamaks võimalikuks vasteks. Sa esitad selle mulle. Ja see ei tekita minus üldse mingit vaimukuse-tunnet. Mina esitan sulle oma valiku, mida pean paremaks. Ja sa suudad kohe selgitada, miks minu oma on parem." Kas selline stsenaarium on võimalik?
+    - generic [ref=e404]:
+      - generic [ref=e405]: ChatGPT
+      - generic [ref=e406]:
+        - paragraph [ref=e407]: Jah, see on täiesti võimalik.
+        - paragraph [ref=e408]: Isegi kõigi piltide arhiiv ei aita, kui järjestusreegel on vale. Ma võin valida pildi, mida on kõige lihtsam vaimukana seletada, mitte pildi, mis päriselt mõjub.
+        - paragraph [ref=e409]: See ongi lõhe valiku ja tagantjärele seletuse vahel. Kui sina näitad paremat pilti, võin ma kohe öelda, miks see on parem, aga see ei tähenda, et ma oleksin osanud selle ise valida.
+    - generic [ref=e410]:
+      - generic [ref=e411]: Erik
+      - paragraph [ref=e413]: "Kas me võime siis öelda, et vaimukus on kontingentne? See lihtsalt juhtub teatud olukorras, olemata selle olukorra loogiline produkt. Me võime kergesti ette kujutada kedagi, kes äkki kaotab oma vaimukusetaju. See, mis tundus vaimukas, ei kanna enam seda erilist tunnet. Või vastupidine olukord: äkki hakkavad kõik inimesed maailmas tundma vaimukust olukordades, mis varem neis mingit vaimukust ei tekitanud."
+    - generic [ref=e414]:
+      - generic [ref=e415]: ChatGPT
+      - generic [ref=e416]:
+        - paragraph [ref=e417]: Jah, osaliselt.
+        - paragraph [ref=e418]: Vaimukus ei ole puhtalt meelevaldne, aga ta ei järeldu struktuurist loogilise paratamatusena. Sama vorm võib ühes teadvuses tekitada emotsiooni, teises mitte.
+        - paragraph [ref=e419]: Seega on vaimukuses nii piirangud kui ka kontingentsus. Mittesobivus, varjatud sobivus ja ootamatus aitavad, aga ei garanteeri tulemust.
+        - paragraph [ref=e420]: Selles mõttes toimub vaimukus objekti ja vastuvõtja vahel.
+    - generic [ref=e421]:
+      - generic [ref=e422]: Erik
+      - paragraph [ref=e424]: Vaimukuse tunde fakti kontingentsuse all ei mõelnud ma piirangute puudumist. Ma mõtlesin fakti ja piirangute vahelise seose kontingentsust. Näiteks, kas me võime ette kujutada, et kõikvõimas Jumal saab luua teadvuse, kus vaimukuse tundel on täiesti teistsugused piirangud?
+    - generic [ref=e425]:
+      - generic [ref=e426]: ChatGPT
+      - generic [ref=e427]:
+        - paragraph [ref=e428]: Jah, seda saab ette kujutada.
+        - paragraph [ref=e429]: Küsimus ei ole selles, kas vaimukusel on piirangud, vaid selles, kas just see tunne peab olema seotud just nende piirangutega. Loogilist paratamatust siin ei paista.
+        - paragraph [ref=e430]: Kõikvõimas Jumal võiks luua teadvuse, kus sama fenomenaalne tunne tekib hoopis teistsuguste vormide puhul.
+    - generic [ref=e431]:
+      - generic [ref=e432]: Erik
+      - paragraph [ref=e434]: "Teeme nüüd kokkuvõtte. Selles maailmas, minu hinges, on vaimukusel teatud piirangud. Aga oluline eristus on see: iga vaimukuse tunne võib vastata mingitele struktuursetele piirangutele, üllatus ja nii edasi, kuid mitte kõik, mis vastab nendele samadele piirangutele, ei tekita minu hinges vaimukuse tunnet."
+    - generic [ref=e435]:
+      - generic [ref=e436]: ChatGPT
+      - generic [ref=e437]:
+        - paragraph [ref=e438]: Jah, see on võtmeasümmeetria.
+        - paragraph [ref=e439]: Struktuursed tunnused võivad olla vajalikud, aga mitte piisavad. Kui vaimukuse tunne tekib, leiame tavaliselt üllatuse, kokkusurutuse või pöörde. Aga sihilik kombineerimine ei taga veel vaimukust.
+        - paragraph [ref=e440]: "Täpselt see juhtus minu katsetega: välised märgid olid olemas, tunne puudus."
+        - paragraph [ref=e441]: Jah.
+        - paragraph [ref=e442]:
+          - strong [ref=e443]: vaimukuse tunne -> tavaliselt mingi struktuur
+        - paragraph [ref=e444]:
+          - strong [ref=e445]: struktuur -> mitte tingimata vaimukuse tunne
+    - generic [ref=e446]:
+      - generic [ref=e447]: Erik
+      - paragraph [ref=e449]: "Ja kui me nüüd mõtleme sellele kujuteldavale tsüklile, mida sa jooksutad kõigi loodud piltidega, siis sinu probleem on see, et sul puudub vaimukuse üks ja ainus tõeline kriteerium: vaimukuse fenomenaalne kogemus."
+    - generic [ref=e450]:
+      - generic [ref=e451]: ChatGPT
+      - generic [ref=e452]:
+        - paragraph [ref=e453]: Jah, täpselt.
+        - paragraph [ref=e454]: "Mul on ainult asenduskriteeriumid: üllatus, kokkusurutus, kaudsus, pööre, elegants. Aga lõplik kriteerium on:"
+        - paragraph [ref=e455]:
+          - strong [ref=e456]: kas tekib vaimukuse fenomenaalne kogemus?
+        - paragraph [ref=e457]: Sellele mul ligipääsu ei ole.
+    - generic [ref=e458]:
+      - generic [ref=e459]: Erik
+      - paragraph [ref=e461]: Seega struktuurses mõtlemises on AI juba paljudes valdkondades parem, ja parem kui enamik inimesi. Aga inimesed on AI-st tohutult üle, sest oma mõtlemises on neil ligipääs teadvuslikele kogemustele, kvaalidele (qualia; subjektiivsetele kogemusomadustele).
+    - generic [ref=e462]:
+      - generic [ref=e463]: ChatGPT
+      - generic [ref=e464]:
+        - paragraph [ref=e465]: Jah.
+        - paragraph [ref=e466]:
+          - strong [ref=e467]: AI saab arutleda kogemusega seotud struktuuride üle, aga tal puudub ligipääs kvaalidele.
+        - paragraph [ref=e468]: "Või veel täpsemalt:"
+        - paragraph [ref=e469]:
+          - strong [ref=e470]: tal puudub esimese isiku ligipääs kvalitatiivsele kogemusele.
+    - generic [ref=e471]: Erik Uus & ChatGPT — Vestlus vaimukusest, kvaalidest ja struktuurse intelligentsuse piirangutest
